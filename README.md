@@ -1,3 +1,9 @@
+#Description
+#This repository contains a simple To-Do List application that allows users to manage their tasks efficiently. The application is built using [insert programming language/framework used] and provides an interactive command-line interface (CLI) for users to add, view, edit, and complete tasks.
+
+
+
+
 #Features 
 "*"The To-Do List application comes with the following features:
 
